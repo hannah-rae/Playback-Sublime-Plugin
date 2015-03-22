@@ -1,0 +1,17 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[{
+			"caption": "Playback",
+			"mnemonic": "r",
+			"id": "Playback",
+			"children":
+			[
+				{"caption": "Start Recording", "command": "start_recording"},
+				{"caption": "Stop Recording", "command": "stop_recording"},
+				{"caption": "Playback", "command": "play_in_new_window"}
+			]
+		}]
+	}
+]
